@@ -1,24 +1,29 @@
 # git_esgi
 
-## Project setup
+## Setup le projet
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiler pour développement
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiler et minifier pour production
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Appliquer le lint
+
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Modifier la configuration
+
+Voir [Configuration Reference](https://cli.vuejs.org/config/).
