@@ -42,3 +42,4 @@ Vous souhaitez contribuer au projet ? Pas de problème ! Suivez les instructions
 2. Après avoir cloné le projet, créez une branche en utilisant `git branch feat/nom_feature`.
 3. Développez votre feature, et faites des commits détaillés. Les commits à 1 ligne sont acceptés à condition qu'ils soient explicites.
 4. Une fois votre feature créée, il est temps de faire une [Pull Request](https://github.com/yungmides/gitESGI-Groupe2/pulls). Détaillez votre feature, les changements faits au code & nous vérifierons si votre code pourra être merge ou non.
+
